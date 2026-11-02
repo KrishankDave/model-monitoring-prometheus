@@ -137,3 +137,15 @@ dmypy.json
 .DS_Store
 .idea
 drift_venv/
+
+# Streamlit local environment
+.streamlit-venv/
+
+# Downloaded datasets
+data/downloads/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/

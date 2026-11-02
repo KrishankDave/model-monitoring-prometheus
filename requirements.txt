@@ -13,3 +13,4 @@ ruamel.yaml.clib==0.2.6
 scikit-learn==1.0.1
 sqlalchemy==1.4.31
 uvicorn==0.15.0
+Pillow==9.5.0
